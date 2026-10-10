@@ -7,7 +7,7 @@
 
 Un kanban board in stile Trello costruito con **HTML, CSS e JavaScript puri**. Nessuna dipendenza esterna.
 
-## ✨ Funzionalità
+##  Funzionalità
 
 - **Drag & drop** fluido tra le liste
 - **CRUD completo** di liste e card
@@ -23,13 +23,13 @@ Un kanban board in stile Trello costruito con **HTML, CSS e JavaScript puri**. N
 - **Nome board modificabile**
 - **Scorciatoie tastiera** (Ctrl+K, Ctrl+N, Esc)
 
-## 🛠 Tecnologie
+##  Tecnologie
 
 - HTML5
 - CSS3 (Grid, Flexbox, animazioni, drag & drop nativo)
 - JavaScript (ES6+, Drag & Drop API, LocalStorage, MutationObserver)
 
-## 📖 Scorciatoie
+##  Scorciatoie
 
 | Tasto | Azione |
 |---|---|
@@ -37,6 +37,6 @@ Un kanban board in stile Trello costruito con **HTML, CSS e JavaScript puri**. N
 | `Ctrl + N` | Nuova lista |
 | `Esc` | Chiudi modal / menu |
 
-## 📫 Contatti
+##  Contatti
 
 - GitHub: [@nowii-core](https://github.com/nowii-core)
