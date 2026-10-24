@@ -40,7 +40,7 @@
 
 ![Kanban Board Screenshot](Screenshot-1.png)
 
-> > **Live Demo:** [nowii-core.github.io/Kanban-Board-/kanban-board/](https://nowii-core.github.io/Kanban-Board-/kanban-board/)
+>  **Live Demo:** [nowii-core.github.io/Kanban-Board-/kanban-board/](https://nowii-core.github.io/Kanban-Board-/kanban-board/)
 
 ---
 
